@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+#titulo{
+    text-justify: center;
+    font-size: 7vw;
+    
+
+}
+#img{
+    background-image: url(nacional/nacional4.png);
+}
+label{
+    font-weight: bold;
+    font-size: 2vw;
+    
+}
